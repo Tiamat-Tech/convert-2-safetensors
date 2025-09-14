@@ -16,7 +16,7 @@ To use this converter you need to have Python installed, if you arleady have Pyt
 git clone https://github.com/MackinationsAi/convert-2-safetensors.git
 ```
 ```
-cd convert-2-safetensors repo
+cd convert-2-safetensors
 ```
 ```
 install.bat
@@ -43,7 +43,7 @@ The script can be used to convert individual models or batch convert multiple mo
 #### Example:
 
 ```
-run convert.bat
+convert.bat
 ```
 
 ```
